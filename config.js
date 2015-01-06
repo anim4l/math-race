@@ -2,7 +2,7 @@ exports.values={
 	version: '0.0.1',
 	server : {
 		production : {
-			real_time_server : {port: 3001, host: 'localhost'}
+			real_time_server : {port: 3001, host: 'ec2-54-174-89-1.compute-1.amazonaws.com'}
 		}
 	}
 	,
